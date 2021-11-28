@@ -54,7 +54,7 @@
 <img src="https://img.shields.io/github/followers/steven-van?label=Followers&style=social" alt="GitHub Badge"></a>
 </p>
 
-## 🤡 A little joke
+## 🤡 A little programming joke for fun
 
 <p align="center">
 <img src="https://readme-jokes.vercel.app/api?theme=react" />
