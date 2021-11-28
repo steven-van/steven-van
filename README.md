@@ -3,8 +3,6 @@
 
 ## 🙋‍♂️ About Me
 
-- 👨‍🎓 I’m currently an engineering student at **Léonard de Vinci Engineering School** (ESILV)
-
 - 💡 I'm interested in **web and mobile development** 
 
 - 💼 I'm currently looking for **an apprenticeship in IT**, near Paris
@@ -47,7 +45,7 @@
 
 ## 🔗 Connect with me :
 
-<a href = "https://www.linkedin.com/in/steven-van/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"></a>
+<a href = "https://www.linkedin.com/in/van-steven/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"></a>
 
 ## 👀 Views and Followers
 
