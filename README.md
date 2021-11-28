@@ -5,7 +5,7 @@
 
 - 👨‍🎓 I’m currently an engineering student at **Léonard de Vinci Engineering School** (ESILV)
 
-- 💡 I am interested in web and mobile development 
+- 💡 I'm interested in **web and mobile development** 
 
 - 💼 I'm currently looking for **an apprenticeship in IT**, near Paris
 
