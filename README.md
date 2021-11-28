@@ -43,7 +43,7 @@
 <img alt="Steven VAN's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=steven-van&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
 </p>
 
-## 🔗 Connect with me :
+## 🔗 Connect with me
 
 <a href = "https://www.linkedin.com/in/van-steven/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"></a>
 
