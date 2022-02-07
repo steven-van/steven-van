@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Steven</h1>
-<h3 align="center">An engineering student at Leonard de Vinci Graduate School of Engineering (ESILV)</h3>
+<h3 align="center">A french engineering student who likes to code projects during his spare time</h3>
 
 ## 🙋‍♂️ About Me
 
