@@ -5,7 +5,7 @@
 
 - 💡 I'm interested in **web and mobile development** 
 
-- 💼 I'm currently looking for **an apprenticeship in IT**, near Paris
+- 💼 I'm currently a student-engineer and an apprentice as a web developer
 
 - 📫 How to reach me **steven-van@outlook.fr**
 
